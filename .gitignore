@@ -1,0 +1,7 @@
+# 実データ・記録はリポジトリに入れない
+data/raw/
+data/name_map.csv
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
